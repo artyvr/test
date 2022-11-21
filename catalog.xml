@@ -9,7 +9,8 @@
     <agency></agency>
     <email>sharapova-oksana@bk.ru</email>
     <categories>
-      <category id="1" />Книги Магазин Борзова</categories>
+      <category id="1">Книги Магазин Борзова<category>
+    </categories>
   </shop>
   <offers>
     <offer id="442289567">
