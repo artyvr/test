@@ -1,0 +1,1586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2022-11-22T21:31:55+03:00">
+  <shop>
+    <name>Канцтовары у Кристины</name>
+    <company>ИП Шарапова О.В.</company>
+    <url>https://kanckris.ru/</url>
+    <platform>custom</platform>
+    <version>1.0</version>
+    <agency>Канцтовары для дома и офиса</agency>
+    <email>sharapova-oksana@bk.ru</email>
+    <delivery-options>
+      <option cost="1" days="4" order-before="18" />
+    </delivery-options>
+    <pickup-options>
+      <option cost="1" days="4" order-before="18" />
+    </pickup-options>
+    <offers>
+      <offer id="412794929">
+        <url>https://kanckris.ru/search?keyword=100 фактов. "Мифы и легенды" 9785353077879</url>
+        <price>225.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="442289567">
+        <url>https://kanckris.ru/search?keyword=100 фактов. "Мифы и легенды" И 9785353077879</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="442279558">
+        <url>https://kanckris.ru/search?keyword=4D-энциклопедия занимательных наук  ЭнцЗаниматНаук  АСТ И 9785171190255</url>
+        <price>1 075.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="442289800">
+        <url>https://kanckris.ru/search?keyword=690258 Книга "100 фактов. Тело человека", Паркер С., Росмэн И 9785353076209</url>
+        <price>305.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="442289823">
+        <url>https://kanckris.ru/search?keyword=690451 Книга "Энциклопедия для малышей в сказках. Новые истории", Ульева Е., Феникс-Премьер И 9785222317396</url>
+        <price>605.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450012174">
+        <url>https://kanckris.ru/search?keyword=LEGO Удивительные машины (+ набор из 61 элемента) И 9785040921683</url>
+        <price>2 075.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412787419">
+        <url>https://kanckris.ru/search?keyword=А.Н. Томилин Как люди открывали землю 9785090180689</url>
+        <price>325.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794931">
+        <url>https://kanckris.ru/search?keyword=А.Н. Томилин Тайны рождения звезд и планет 9785090198530</url>
+        <price>325.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="442289807">
+        <url>https://kanckris.ru/search?keyword=АвантаДетям Вселенная и космос/Ликсо/АСТ И 9785171010744</url>
+        <price>865.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801162">
+        <url>https://kanckris.ru/search?keyword=Автомобили. Детская энциклопедия 9785353068976</url>
+        <price>345.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412778168">
+        <url>https://kanckris.ru/search?keyword=Ананьев Г.С., Магидович В  Планета Земля (ДЭР)  Школа,Школа. весна  Росмэн  9785353029151</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="427361246">
+        <url>https://kanckris.ru/search?keyword=Ананьев Г.С., Магидович В  Планета Земля (ДЭР)  Школа,Школа. весна  Росмэн И 9785353029151</url>
+        <price>245.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="442288549">
+        <url>https://kanckris.ru/search?keyword=Ананьева Е.Г.  Все фантастические существа с крупными буквами  Атласы и энциклопедии  ЭКСМО И 9785699901784</url>
+        <price>805.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801904">
+        <url>https://kanckris.ru/search?keyword=Ананьева Е.Г., Мирнова С.  Земля. Полная энциклопедия (мел.)  Атласы и энциклопедии. Полные  ЭКСМО  9785699807147</url>
+        <price>1 195.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794390">
+        <url>https://kanckris.ru/search?keyword=Атлас анатомии человека Самусев Р. 9785170839476</url>
+        <price>1 345.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="427364703">
+        <url>https://kanckris.ru/search?keyword=Атлас. Мир и человек.(ДМБ) И 4607048955611</url>
+        <price>565.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="439666170">
+        <url>https://kanckris.ru/search?keyword=Бакурский В. А.  Танки (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн  9785353057468</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="442289309">
+        <url>https://kanckris.ru/search?keyword=Бдэ Как работает твое тело Владис И 9785956721483</url>
+        <price>1 075.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="442286069">
+        <url>https://kanckris.ru/search?keyword=Бергамино Д.  Великие изобретения и научные открытия. Детская энциклопедия(МЕЛОВКА)     Владис И 9785956725559</url>
+        <price>1 175.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="459741553">
+        <url>https://kanckris.ru/search?keyword=Березкина И.В.  Зеленый оазис. Комнатные растения от А до Я  Подарочные издания. Энциклопед  ЭКСМО  И 9785040987863</url>
+        <price>1 355.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412782186">
+        <url>https://kanckris.ru/search?keyword=Берни Д.  Доисторический мир. Опасные ящеры. Детская энц-дия  Детская энциклопедия  Росмэн  9785353058458</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="427361240">
+        <url>https://kanckris.ru/search?keyword=Берни Д.  Доисторический мир. Опасные ящеры. Детская энц-дия  Детская энциклопедия  Росмэн И 9785353058458</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412791676">
+        <url>https://kanckris.ru/search?keyword=Берни Д.  Млекопитающие. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353058410</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="427224478">
+        <url>https://kanckris.ru/search?keyword=Берни Д.  Млекопитающие. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353058410</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="461039112">
+        <url>https://kanckris.ru/search?keyword=Блохина И.В., Гордиевич Д.И., Мерников А.Г. Большая книга самых нужных и полезных знаний для девочек 9785171050399</url>
+        <price>1 135.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801166">
+        <url>https://kanckris.ru/search?keyword=Великая Россия Русское Оружие 9785373055031</url>
+        <price>1 755.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794934">
+        <url>https://kanckris.ru/search?keyword=Всемирная история в датах для детей (-) 9785373074155</url>
+        <price>1 195.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801161">
+        <url>https://kanckris.ru/search?keyword=Вымершие животные. Полная энциклопедия (мел.)  Атласы и энциклопедии. Полные  ЭКСМО  9785699810444</url>
+        <price>1 195.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412778162">
+        <url>https://kanckris.ru/search?keyword=Гальперштейн Л. Я., Дыгал  Транспорт (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн  9785353038245</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="461039599">
+        <url>https://kanckris.ru/search?keyword=Гальперштейн Л.Я. Моя первая энциклопедия И 9785353000372</url>
+        <price>745.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412802928">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Поезда (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн  9785353088790</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="429998087">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Поезда (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн И 9785353088790</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412790913">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Птицы (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн  9785353093404</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="430038316">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Птицы (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн И 9785353093404</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412802656">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Самолеты и вертолеты (Энцикл. для детского сада)  Энциклопедия для детского сада  Ро 9785353088806</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="430038319">
+        <url>https://kanckris.ru/search?keyword=Гальцева С. Н.  Самолеты и вертолеты (Энцикл. для детского сада)  Энциклопедия для детского сада  Ро И 9785353088806</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412801908">
+        <url>https://kanckris.ru/search?keyword=География России. Полная энциклопедия (мел.)/Петрова 9785699865642</url>
+        <price>1 195.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450012173">
+        <url>https://kanckris.ru/search?keyword=География. Детская Энциклопедия РОСМЭН И 9785353058090</url>
+        <price>245.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="475588013">
+        <url>https://kanckris.ru/search?keyword=Гигантская детская 4D энциклопедия И 9785171190156</url>
+        <price>1 755.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450012168">
+        <url>https://kanckris.ru/search?keyword=Гиффорд К.  Футбол. Детская энциклопедия  23 февраля,Школа,Школа. весна  Росмэн И 9785353082880</url>
+        <price>345.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="461039601">
+        <url>https://kanckris.ru/search?keyword=Горкин А. П. Полная энциклопедия школьника И 9785353045557</url>
+        <price>1 095.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450046347">
+        <url>https://kanckris.ru/search?keyword=Горы и минералы. Детская энциклопедия И 9785353082873</url>
+        <price>335.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794927">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Открытия и изобретения. Детская энциклопедия  Детский сад. Весна,Школа. весн  Росмэ 9785353068693</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="430008813">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Открытия и изобретения. Детская энциклопедия  Детский сад. Весна,Школа. весн  Росмэ И 9785353068693</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412795679">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Полезные машины. Детская энциклопедия  23 февраля,Детский сад. Весна,  Росмэн  9785353068983</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="430008811">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Полезные машины. Детская энциклопедия  23 февраля,Детский сад. Весна,  Росмэн И 9785353068983</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801907">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Чудеса света. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353068839</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="429999582">
+        <url>https://kanckris.ru/search?keyword=Гришечкин В. А.  Чудеса света. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353068839</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="450015656">
+        <url>https://kanckris.ru/search?keyword=Давай поговорим о том, откуда берутся дети. О зачатии, рождении, младенцах и семьях И 9785699871308</url>
+        <price>965.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801412">
+        <url>https://kanckris.ru/search?keyword=Денн Б., О'Брайен Э.  Космос. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353057635</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="431049552">
+        <url>https://kanckris.ru/search?keyword=Денн Б., О'Брайен Э.  Космос. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353057635</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450015664">
+        <url>https://kanckris.ru/search?keyword=ДетскаяЭнциклопедия Птицы (для младшего школьного возраста), (Росмэн/Росмэн-Пресс, 2018), 7Бц, c.48 И 9785353057666</url>
+        <price>325.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="450012172">
+        <url>https://kanckris.ru/search?keyword=Джонсон А.Книга для настоящих девочекСамНужСамоучительАСТ И 9785170950355</url>
+        <price>355.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412791686">
+        <url>https://kanckris.ru/search?keyword=Джузеппе Брилланте, Анна  Всё о динозаврах и других древних животных  Всё о динозаврах и других древ 9785041110550</url>
+        <price>1 015.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="430972321">
+        <url>https://kanckris.ru/search?keyword=Дзюненко В.С.  Энциклопедия для девочек  ПочемуЗачемКак?  АСТ И 9785171112721</url>
+        <price>765.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801163">
+        <url>https://kanckris.ru/search?keyword=Диденко А.В.  Древняя Греция  Новая занимательная энциклопед  ЭКСМО  9785040950355</url>
+        <price>715.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412798437">
+        <url>https://kanckris.ru/search?keyword=Диккинс Р.  Насекомые. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353057642</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450012169">
+        <url>https://kanckris.ru/search?keyword=Диккинс Р.  Насекомые. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353057642</url>
+        <price>345.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412802929">
+        <url>https://kanckris.ru/search?keyword=Догерти Дж.  Птицы. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353057666</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412782189">
+        <url>https://kanckris.ru/search?keyword=Дон Лессем  Большая энциклопедия динозавров National Geographic. Энциклопе ЭКСМО  9785041019518</url>
+        <price>1 405.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412802924">
+        <url>https://kanckris.ru/search?keyword=Древние цивилизации. Египет, Греция, Рим 9785956720646</url>
+        <price>885.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412801164">
+        <url>https://kanckris.ru/search?keyword=Дэвидсон С.  Киты и дельфины. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353057673</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="430425937">
+        <url>https://kanckris.ru/search?keyword=Дэвидсон С.  Киты и дельфины. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353057673</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="450015646">
+        <url>https://kanckris.ru/search?keyword=Ермакович Д.И.  Детская энциклопедия для мальчиков в 2000 иллюстраций, которые можно рассматривать ц И 9785171208318</url>
+        <price>1 475.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794392">
+        <url>https://kanckris.ru/search?keyword=Железникова О. А.  Чудеса света (Энциклопедия для детского сада)  Энциклопедия для детского сада  Ро 9785353087748</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="431051790">
+        <url>https://kanckris.ru/search?keyword=Железникова О. А.  Чудеса света (Энциклопедия для детского сада)  Энциклопедия для детского сада  Ро И 9785353087748</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="436395399">
+        <url>https://kanckris.ru/search?keyword=Жуков Иван  Компьютер с нуля. Самоучитель для тех, кто никогда не работал на компьютере  СовременСам И 9785171231514</url>
+        <price>465.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412794925">
+        <url>https://kanckris.ru/search?keyword=Зачем животным хвост? (Удивительный мир животных) 9785353087229</url>
+        <price>325.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412795674">
+        <url>https://kanckris.ru/search?keyword=Знакомьтесь: Динозавры! (энциклопедия на пружине)     Махаон  9785389135079</url>
+        <price>1 705.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412778163">
+        <url>https://kanckris.ru/search?keyword=Золотов А. В.  Легковые автомобили (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн  9785353037118</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="431050304">
+        <url>https://kanckris.ru/search?keyword=Золотов А. В.  Легковые автомобили (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн И 9785353037118</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="450015650">
+        <url>https://kanckris.ru/search?keyword=Исаев В.Ю.  Военная техника. Полная энциклопедия  Атласы и энциклопедии. Полные  ЭКСМО И 9785699737994</url>
+        <price>1 365.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="449989424">
+        <url>https://kanckris.ru/search?keyword=КНИГА РОСМЭН ДЕТСКАЯ ЭНЦИКЛОПЕДИЯ СТРАНЫ И КОНТИНЕНТЫ СТЕПАНОВА И 9785353053033</url>
+        <price>305.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412795676">
+        <url>https://kanckris.ru/search?keyword=Кадаш Т. В.  Астрономия и космос (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн  9785353034025</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="430972316">
+        <url>https://kanckris.ru/search?keyword=Кадаш Т. В.  Астрономия и космос (ДЭР)  Детская энциклопедия РОСМЭН  Росмэн И 9785353034025</url>
+        <price>295.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412787417">
+        <url>https://kanckris.ru/search?keyword=Как устроено тело 9785353091325</url>
+        <price>525.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="440125809">
+        <url>https://kanckris.ru/search?keyword=Карганова Е.Г.  Большая книга малышам. Стихи, сказки, игры, песенки  БолПодарокДошкольнику  АСТ  9785171378899</url>
+        <price>1 035.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+      <offer id="412782188">
+        <url>https://kanckris.ru/search?keyword=Кент П.  Техника. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353058434</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="449989426">
+        <url>https://kanckris.ru/search?keyword=Кент П.  Техника. Детская энциклопедия  Детская энциклопедия  Росмэн И 9785353058434</url>
+        <price>345.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412798439">
+        <url>https://kanckris.ru/search?keyword=Кертис Н.  Горы и минералы. Детская энциклопедия  Детская энциклопедия  Росмэн  9785353082873</url>
+        <price>385.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412791448">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  Большие машины (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росм 9785353084815</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="431059031">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  Большие машины (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росм И 9785353084815</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412802925">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  В лесу (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн  9785353090618</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="431074777">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  В лесу (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн И 9785353090618</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412791908">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  Детеныши животных (Энциклопедия для детского сада)  Энциклопедия для детского сада  Р 9785353093398</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>3</count>
+      </offer>
+      <offer id="431051783">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  Детеныши животных (Энциклопедия для детского сада)  Энциклопедия для детского сада  Р И 9785353093398</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>2</count>
+      </offer>
+      <offer id="412802926">
+        <url>https://kanckris.ru/search?keyword=Клюшник Л. В.  Джунгли (Энциклопедия для детского сада)  Энциклопедия для детского сада  Росмэн  9785353089179</url>
+        <price>235.0</price>
+        <oldprice></oldprice>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <currencyId>RUR</currencyId>
+        <vat></vat>
+        <delivery>true</delivery>
+        <pickup>true</pickup>
+        <delivery-options>
+          <option cost="123" days="4" order-before="18" />
+        </delivery-options>
+        <pickup-options>
+          <option cost="1" days="4" order-before="18" />
+        </pickup-options>
+        <store>yes</store>
+        <count>1</count>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
